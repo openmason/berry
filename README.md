@@ -11,3 +11,6 @@ BDD Test Framework . Based on mocha, superagent, chai.
  * accept the operation, content type
  * CRUD url
  * object - can give it in json (or) simple key/values
+
+# Shell
+ * user to have a shell to run rest commands
