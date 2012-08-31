@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/truepattern/berry.png)](http://travis-ci.org/truepattern/berry)
 # berry
 BDD Test Framework . Based on mocha, superagent, chai.
 
